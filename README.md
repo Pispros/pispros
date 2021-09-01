@@ -5,6 +5,7 @@ Having fun !
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nest.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Angular](https://img.shields.io/badge/-ANGULAR-333333?style=flat&logo=angular&logoColor=1572B6)&nbsp;
@@ -15,3 +16,4 @@ Having fun !
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)&nbsp;
 ![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitbucket)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)&nbsp;

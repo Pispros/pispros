@@ -18,7 +18,9 @@ Having fun !
 ![Flutter](https://img.shields.io/badge/-FLUTTER-333333?style=flat&logo=flutter&logoColor=1572B6)&nbsp;
 ![Ionic](https://img.shields.io/badge/-IONIC-333333?style=flat&logo=ionic&logoColor=1572B6)&nbsp;
 ![Shell](https://img.shields.io/badge/-SHELL-333333?style=flat&logo=shell&logoColor=1572B6)&nbsp;
-![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)&nbsp;
+![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)&nbsp;
+![MONGODB](https://img.shields.io/badge/-MONGO-333333?style=flat&logo=mongodb)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)&nbsp;

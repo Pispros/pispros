@@ -10,7 +10,7 @@ Having fun !
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nest.js)&nbsp;
+![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Angular](https://img.shields.io/badge/-ANGULAR-333333?style=flat&logo=angular&logoColor=1572B6)&nbsp;

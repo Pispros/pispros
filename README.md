@@ -15,6 +15,7 @@ Having fun !
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Angular](https://img.shields.io/badge/-ANGULAR-333333?style=flat&logo=angular&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-REACT-333333?style=flat&logo=react&logoColor=1572B6)&nbsp;
+![Dart](https://img.shields.io/badge/-DART-333333?style=flat&logo=dart&logoColor=1572B6)&nbsp;
 ![Flutter](https://img.shields.io/badge/-FLUTTER-333333?style=flat&logo=flutter&logoColor=1572B6)&nbsp;
 ![Ionic](https://img.shields.io/badge/-IONIC-333333?style=flat&logo=ionic&logoColor=1572B6)&nbsp;
 ![Shell](https://img.shields.io/badge/-SHELL-333333?style=flat&logo=shell&logoColor=1572B6)&nbsp;

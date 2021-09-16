@@ -28,3 +28,7 @@ Having fun !
 ![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitbucket)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text&logoColor=007ACC)&nbsp;
+
+<p>
+    ![Pispro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pispros&count_private=true&show_icons=true&theme=dracula)
+</p>

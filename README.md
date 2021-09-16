@@ -30,5 +30,5 @@ Having fun !
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text&logoColor=007ACC)&nbsp;
 
 <p>
-    ![Pispro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pispros&count_private=true&show_icons=true&theme=dracula)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pispros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>

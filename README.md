@@ -29,6 +29,10 @@ Having fun !
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text&logoColor=007ACC)&nbsp;
 
+### 🚶 &nbsp;Visitor Count Since 10/09/2021
+
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=pispros.pispros&left_color=purple&right_color=black)
+
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pispros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>

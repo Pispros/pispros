@@ -20,6 +20,9 @@ Having fun !
 ![Ionic](https://img.shields.io/badge/-IONIC-333333?style=flat&logo=ionic&logoColor=1572B6)&nbsp;
 ![Shell](https://img.shields.io/badge/-SHELL-333333?style=flat&logo=shell&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)&nbsp;
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)&nbsp;
+![PYTHON](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=python)&nbsp;
+![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=java)&nbsp;
 ![MONGODB](https://img.shields.io/badge/-MONGODB-333333?style=flat&logo=mongodb)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;

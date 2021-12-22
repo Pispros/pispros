@@ -11,6 +11,7 @@ Having fun !
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs)&nbsp;
+![.Net](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Angular](https://img.shields.io/badge/-ANGULAR-333333?style=flat&logo=angular&logoColor=1572B6)&nbsp;
@@ -21,6 +22,7 @@ Having fun !
 ![Shell](https://img.shields.io/badge/-SHELL-333333?style=flat&logo=shell&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)&nbsp;
+![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=c#)&nbsp;
 ![PYTHON](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=python)&nbsp;
 ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=java)&nbsp;
 ![MONGODB](https://img.shields.io/badge/-MONGODB-333333?style=flat&logo=mongodb)&nbsp;

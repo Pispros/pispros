@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-Just coding & learning 100% time.\
+Just coding & learning 99% time.\
 Having fun !
 
 <p>

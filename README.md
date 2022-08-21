@@ -7,7 +7,8 @@ Having fun !
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 </p>
 
-
+![Docker](https://img.shields.io/badge/-DOCKER-333333?style=flat&logo=docker)&nbsp;
+![GraphQl](https://img.shields.io/badge/-GRAPHQL-333333?style=flat&logo=graphql)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs)&nbsp;

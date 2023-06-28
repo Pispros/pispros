@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-Coding & learning && Debugging 70% time.\
+Coding & Learning && Debugging 70% time.\
 It's Fun !!!
 <p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>

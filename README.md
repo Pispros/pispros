@@ -23,6 +23,7 @@ Having fun !
 ![Shell](https://img.shields.io/badge/-SHELL-333333?style=flat&logo=shell&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)&nbsp;
+![GO](https://img.shields.io/badge/-GO-333333?style=flat&logo=go)&nbsp;
 ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp)&nbsp;
 ![PYTHON](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=python)&nbsp;
 ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=java)&nbsp;

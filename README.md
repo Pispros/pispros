@@ -6,6 +6,7 @@ It's Fun !!!
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 </p>
 
+![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-333333?style=flat&logo=typescript)&nbsp;
 ![JENKINS](https://img.shields.io/badge/-JENKINS-333333?style=flat&logo=jenkins)&nbsp;
 ![GO](https://img.shields.io/badge/-GO-333333?style=flat&logo=go)&nbsp;
 ![Docker](https://img.shields.io/badge/-DOCKER-333333?style=flat&logo=docker)&nbsp;

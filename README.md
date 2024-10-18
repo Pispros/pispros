@@ -42,5 +42,5 @@ Coding & Learning && Debugging && Being Grateful 70% time.\
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=pispros.pispros&left_color=purple&right_color=black)
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pispros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  ![Pispro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pispros&show_icons=true&theme=radical)
 </p>

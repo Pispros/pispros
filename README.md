@@ -36,3 +36,8 @@ Coding & Learning && Debugging && Being Grateful 70% time.\
 ![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitbucket)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text&logoColor=007ACC)&nbsp;
+
+<p align="center">
+  Visitor count - 22/10/2024<br>
+  <img src="https://profile-counter.glitch.me/Pispros/count.svg" />
+</p>

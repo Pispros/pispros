@@ -38,6 +38,6 @@ Coding & Learning && Debugging && Being Grateful 70% time.\
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text&logoColor=007ACC)&nbsp;
 
 <p align="center">
-  Visitor count - 22/10/2024<br>
+  Visitor count - From 22/10/2024<br>
   <img src="https://profile-counter.glitch.me/Pispros/count.svg" />
 </p>

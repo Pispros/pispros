@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-Coding & Learning && Debugging && Being Grateful 70% time :)
+Coding & Learning && Debugging && Being Grateful 100% time :)
 <p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 </p>

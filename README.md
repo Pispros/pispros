@@ -1,6 +1,6 @@
 # 👨🏻‍💻 About Me
 
-## Software Architect • Full-Stack Engineer • Problem Solver
+## Software Architect • Problem Solver
 
 I design and build scalable digital products with a strong focus on **architecture, security, performance, and developer experience**.
 

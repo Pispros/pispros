@@ -5,11 +5,9 @@
 I design and build scalable digital products with a strong focus on **architecture, security, performance, and developer experience**.
 
 I’m passionate about turning complex ideas into reliable systems, writing clean maintainable code, and continuously learning.  
-Learning || (Coding && Debugging) && Gratitude — 100% of the time.
+Learning || (Coding && Debugging) && Gratitude - 100% of the time.
 
-<p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-</p>
 
 <br><br><br>
 
@@ -24,7 +22,7 @@ Learning || (Coding && Debugging) && Gratitude — 100% of the time.
 - Optimize developer workflows & CI/CD  
 - Translate business needs into technical solutions  
 
-I care about **code quality, system design, security and long-term maintainability** — sometimes shipping features (context wise).
+I care about **code quality, system design, security and long-term maintainability** --- sometimes just shipping features (context wise).
 
 ---
 

@@ -99,6 +99,7 @@ I care about **code quality, system design, security and long-term maintainabili
 > Build systems that scale.  
 > Write code that lasts.  
 > Stay curious. Stay grateful.
+> Jedi Wise.
 
 I believe great engineering is a mix of **technical excellence, humility, and collaboration**.
 

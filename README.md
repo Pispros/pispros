@@ -1,6 +1,6 @@
 # 👨🏻‍💻 &nbsp;About Me
 ## Passionate Software Architect <br>
-Coding & Learning && Debugging && Being Grateful 100% time :)
+Learning || ( Coding && Debugging ) && Being Grateful 100% time :)
 <p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 </p>
@@ -40,5 +40,5 @@ Coding & Learning && Debugging && Being Grateful 100% time :)
 
 <p align="center">
   Visitor count - From 22/10/2024<br>
-  <img src="https://profile-counter.glitch.me/Pispros/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Pispros&color=326CE5&style=flat&label=VISITORS" alt="Pispros visitor count" />
 </p>

@@ -39,6 +39,6 @@ Learning || ( Coding && Debugging ) && Being Grateful 100% time :)
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text&logoColor=007ACC)&nbsp;
 
 <p align="center">
-  Visitor count - From 22/10/2024<br>
+  Visitor count - From 2026/02/17<br>
   <img src="https://komarev.com/ghpvc/?username=Pispros&color=326CE5&style=flat&label=VISITORS" alt="Pispros visitor count" />
 </p>

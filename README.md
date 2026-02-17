@@ -38,10 +38,13 @@ I care about **code quality, system design, and long-term maintainability** — 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)&nbsp;
 ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp)&nbsp;
 ![Shell](https://img.shields.io/badge/-SHELL-333333?style=flat&logo=shell)&nbsp;
+![Deno](https://img.shields.io/badge/-DENO-333333?style=flat&logo=deno)&nbsp;
 
 ### Frontend & Mobile
 ![Angular](https://img.shields.io/badge/-ANGULAR-333333?style=flat&logo=angular)&nbsp;
 ![React](https://img.shields.io/badge/-REACT-333333?style=flat&logo=react)&nbsp;
+![Vue.js](https://img.shields.io/badge/-VUE.JS-333333?style=flat&logo=vuedotjs)&nbsp;
+![React Native](https://img.shields.io/badge/-REACT%20NATIVE-333333?style=flat&logo=react)&nbsp;
 ![Flutter](https://img.shields.io/badge/-FLUTTER-333333?style=flat&logo=flutter)&nbsp;
 ![Dart](https://img.shields.io/badge/-DART-333333?style=flat&logo=dart)&nbsp;
 ![Ionic](https://img.shields.io/badge/-IONIC-333333?style=flat&logo=ionic)&nbsp;
@@ -51,8 +54,17 @@ I care about **code quality, system design, and long-term maintainability** — 
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs)&nbsp;
+![Express.js](https://img.shields.io/badge/-EXPRESS-333333?style=flat&logo=express)&nbsp;
+![Fastify](https://img.shields.io/badge/-FASTIFY-333333?style=flat&logo=fastify)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FASTAPI-333333?style=flat&logo=fastapi)&nbsp;
 ![GraphQl](https://img.shields.io/badge/-GRAPHQL-333333?style=flat&logo=graphql)&nbsp;
 ![.Net](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)&nbsp;
+
+### AI / LLM Engineering
+![LangChain](https://img.shields.io/badge/-LANGCHAIN-333333?style=flat)&nbsp;
+![LangGraph](https://img.shields.io/badge/-LANGGRAPH-333333?style=flat)&nbsp;
+![Langfuse](https://img.shields.io/badge/-LANGFUSE-333333?style=flat)&nbsp;
+![Vercel AI SDK](https://img.shields.io/badge/-VERCEL%20AI%20SDK-333333?style=flat)&nbsp;
 
 ### Databases
 ![MONGODB](https://img.shields.io/badge/-MONGODB-333333?style=flat&logo=mongodb)&nbsp;
@@ -63,13 +75,18 @@ I care about **code quality, system design, and long-term maintainability** — 
 ![Docker](https://img.shields.io/badge/-DOCKER-333333?style=flat&logo=docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)&nbsp;
 ![JENKINS](https://img.shields.io/badge/-JENKINS-333333?style=flat&logo=jenkins)&nbsp;
+![Terraform](https://img.shields.io/badge/-TERRAFORM-333333?style=flat&logo=terraform)&nbsp;
+![Ansible](https://img.shields.io/badge/-ANSIBLE-333333?style=flat&logo=ansible)&nbsp;
 
 ### Tools & Workflow
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)&nbsp;
 ![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitbucket)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20CODE-333333?style=flat&logo=visual-studio-code)&nbsp;
+![Cursor](https://img.shields.io/badge/-CURSOR-333333?style=flat)&nbsp;
+![Android Studio](https://img.shields.io/badge/-ANDROID%20STUDIO-333333?style=flat&logo=androidstudio)&nbsp;
+![Xcode](https://img.shields.io/badge/-XCODE-333333?style=flat&logo=xcode)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text)&nbsp;
 
 ---

@@ -11,6 +11,8 @@ Learning || (Coding && Debugging) && Gratitude — 100% of the time.
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 </p>
 
+<br><br><br>
+
 ---
 
 ## 🚀 What I Do
@@ -22,7 +24,7 @@ Learning || (Coding && Debugging) && Gratitude — 100% of the time.
 - Optimize developer workflows & CI/CD  
 - Translate business needs into technical solutions  
 
-I care about **code quality, system design, security and long-term maintainability** — as well as just shipping features (context wise).
+I care about **code quality, system design, security and long-term maintainability** — sometimes shipping features (context wise).
 
 ---
 

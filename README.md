@@ -1,15 +1,18 @@
 # 👨🏻‍💻 About Me
 
-## Software Architect • Problem Solver
-
-I design and build scalable digital products with a strong focus on **architecture, security, performance, and developer experience**.
-
-I’m passionate about turning complex ideas into reliable systems, writing clean maintainable code, and continuously learning.  
-Learning || (Coding && Debugging) && Gratitude - 100% of the time.
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-<br><br><br>
+<table>
+  <tr>
+    <td valign="top">
+      <h2>Software Architect • Problem Solver</h2>
+      <p>I design and build scalable digital products with a strong focus on <b>architecture, security, performance, and developer experience</b>.</p>
+      <p>I'm passionate about turning complex ideas into reliable systems, writing clean maintainable code, and continuously learning.<br>
+      Learning || (Coding && Debugging) && Gratitude - 100% of the time.</p>
+    </td>
+    <td valign="top" width="400">
+      <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ---
 

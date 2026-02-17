@@ -1,5 +1,5 @@
 ### 👨🏻‍💻 &nbsp;About Me
-
+Software Architect <br>
 Coding & Learning && Debugging && Being Grateful 100% time :)
 <p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -9,6 +9,7 @@ Coding & Learning && Debugging && Being Grateful 100% time :)
 ![JENKINS](https://img.shields.io/badge/-JENKINS-333333?style=flat&logo=jenkins)&nbsp;
 ![GO](https://img.shields.io/badge/-GO-333333?style=flat&logo=go)&nbsp;
 ![Docker](https://img.shields.io/badge/-DOCKER-333333?style=flat&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)&nbsp;
 ![GraphQl](https://img.shields.io/badge/-GRAPHQL-333333?style=flat&logo=graphql)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;

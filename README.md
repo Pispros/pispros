@@ -22,7 +22,7 @@ Learning || (Coding && Debugging) && Gratitude — 100% of the time.
 - Optimize developer workflows & CI/CD  
 - Translate business needs into technical solutions  
 
-I care about **code quality, system design, and long-term maintainability** — not just shipping features.
+I care about **code quality, system design, security and long-term maintainability** — as well as just shipping features (context wise).
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Software Architect • Full-Stack Engineer • Problem Solver
 
-I design and build scalable digital products with a strong focus on **architecture, performance, and developer experience**.
+I design and build scalable digital products with a strong focus on **architecture, security, performance, and developer experience**.
 
 I’m passionate about turning complex ideas into reliable systems, writing clean maintainable code, and continuously learning.  
 Learning || (Coding && Debugging) && Gratitude — 100% of the time.

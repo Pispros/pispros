@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - Architect modern, scalable distributed systems  
 - Build high-performance full-stack applications  
@@ -29,7 +29,7 @@ I care about **code quality, system design, security and long-term maintainabili
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ### Languages
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-333333?style=flat&logo=typescript)&nbsp;
@@ -94,7 +94,7 @@ I care about **code quality, system design, security and long-term maintainabili
 
 ---
 
-## 🤝 Philosophy
+## Philosophy
 
 > Build systems that scale.  
 > Write code that lasts.  

@@ -64,6 +64,7 @@ I care about **code quality, system design, security and long-term maintainabili
 ![.Net](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)&nbsp;
 
 ### AI / LLM Engineering
+![Baselines](https://img.shields.io/badge/-BASELINES-333333?style=flat)&nbsp;
 ![LangChain](https://img.shields.io/badge/-LANGCHAIN-333333?style=flat)&nbsp;
 ![LangGraph](https://img.shields.io/badge/-LANGGRAPH-333333?style=flat)&nbsp;
 ![Langfuse](https://img.shields.io/badge/-LANGFUSE-333333?style=flat)&nbsp;

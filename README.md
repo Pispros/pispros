@@ -73,6 +73,8 @@ I care about **code quality, system design, security and long-term maintainabili
 ![MONGODB](https://img.shields.io/badge/-MONGODB-333333?style=flat&logo=mongodb)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=mysql)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQl-333333?style=flat&logo=postgresql)&nbsp;
+![REDIS](https://img.shields.io/badge/-REDIS-333333?style=flat&logo=redis)&nbsp;
+![KEYDB](https://img.shields.io/badge/-KEYDB-333333?style=flat&logo=keydb)&nbsp;
 
 ### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/-DOCKER-333333?style=flat&logo=docker)&nbsp;
